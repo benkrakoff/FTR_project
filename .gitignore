@@ -1,0 +1,3 @@
+*.csv
+FTR\ raw\ data/*
+.ipynb_checkpoints/*
