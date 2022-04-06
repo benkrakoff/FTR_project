@@ -1,3 +1,1 @@
-*.csv
-LMP\ raw\ data/*
-FTR\ raw\ data/*
+datascraper.py
