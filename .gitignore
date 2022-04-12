@@ -1,3 +1,6 @@
 *.csv
 FTR\ raw\ data/*
 .ipynb_checkpoints/*
+*.pdf
+*.png
+*.tex
